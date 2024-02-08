@@ -12,9 +12,9 @@
 pip install pytest
 ````
 
-**Установка selenium:**
+**Установка Selenium:**
 ````
-pip install Selenium
+pip install selenium
 ````
 
 **Запуск автотестов:**
